@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "301545994681",
+    "project_id": "sirena-de-sal-99d8c",
+    "storage_bucket": "sirena-de-sal-99d8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301545994681:android:6f82808ddd81742c689e68",
+        "android_client_info": {
+          "package_name": "com.ICMA.sirenadesal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "301545994681-kd8t9npb3tobo67rgl0rg33nr5ueod34.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ICMA.sirenadesal",
+            "certificate_hash": "4c41cac3923f38482e9c808f4a91cfda653fd90c"
+          }
+        },
+        {
+          "client_id": "301545994681-0nif8bcjj75mdet6a9lpsqfkc9mjvqlo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcUmW2ysEkefEbTB-Q2Grx0t4hGq_qvJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "301545994681-0nif8bcjj75mdet6a9lpsqfkc9mjvqlo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "301545994681-bvqu7vditsacaocp8jpkb28p7o2ee2nj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sirenaDeSal"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
